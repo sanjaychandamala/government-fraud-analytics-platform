@@ -1,0 +1,6 @@
+
+transaction_id,department,amount,risk_score
+1001,Transport,120000,0.11
+1002,Healthcare,950000,0.87
+1003,Infrastructure,450000,0.22
+1004,Public Safety,2000000,0.94
