@@ -191,6 +191,16 @@ frontend/index.html
 
 ## Sanjay Chandamala
 
+Senior Gen AI / ML Engineer • Data Scientist • Cloud AI Engineer
+
+### Connect With Me
+
 - LinkedIn: https://www.linkedin.com/in/chandamala-sanjay-reddy-ba3b8932/
 - GitHub: https://github.com/sanjaychandamala
 - Email: sanjaychandamala93@gmail.com
+
+---
+
+# ⚡ Disclaimer
+
+This project uses synthetic sample data and is intended for portfolio demonstration, architecture showcase, and educational purposes only.
